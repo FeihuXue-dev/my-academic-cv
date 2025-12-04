@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/smallcat.jpg"
+  avatar           : "my-academic-cv/images/smallcat.jpg"
   name             : "Feihu Xue"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
